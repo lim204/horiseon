@@ -2,7 +2,7 @@
 
 ## Horiseon Code Refactor
 
-The challenge was to refactor the codebase for a existing marketing agency website "Horison". This help to improved the codebase and meet accessibility standards.
+The challenge was to refactor the codebase for a existing marketing agency website "Horison". The main motivation was to improve the codebase so it could meet accessibility standards.
 
 ## Refactor
 1) Added a concise title 
