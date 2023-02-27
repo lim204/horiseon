@@ -2,19 +2,14 @@
 
 ## Horiseon Code Refactor
 
-The challenge was to refactor the codebase for a marketing agency website "Horison". Refactoring improved the code and helped to meet accessibility standards.
-
-## Table of Contents
-- [Refactors] 
-- [Screenshot]
-- [Link to Horiseon Website]
+The challenge was to refactor the codebase for a existing marketing agency website "Horison". This help to improved the codebase and meet accessibility standards.
 
 ## Refactor
-1) Added a tittle to document for SEO.
+1) Added a concise title 
 2) Made sure to structure and used semantic html elements.
-3) Made sure all links are working well..
+3) Made sure all links are working well.
 4) Added missing accessible alt attribute.
-5) Made sure html and css files are well structure and consolidated.
+5) Made sure html and css files are well structured and consolidated.
 6) Made sure CSS file is updated to the semantic html structure.
 
 ## Screenshot
